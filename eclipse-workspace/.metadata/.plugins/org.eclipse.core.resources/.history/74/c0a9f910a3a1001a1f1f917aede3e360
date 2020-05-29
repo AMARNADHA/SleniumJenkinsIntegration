@@ -1,0 +1,15 @@
+package DemoJenkins;
+
+import org.testng.annotations.Test;
+
+public class DemoJenkinsClass {
+
+
+public void testjenkins() {
+	
+       System.out.println("Welcome to Jenkins Selenium Test");
+       
+       	
+
+}
+}

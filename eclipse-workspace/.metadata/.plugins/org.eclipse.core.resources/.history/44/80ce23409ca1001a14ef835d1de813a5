@@ -1,0 +1,13 @@
+package DemoJenkins;
+
+public class DemoJenkinsClass {
+
+@Test
+	public void testjenkins() {
+	
+       System.out.println("Wlecome to Jenkins Selenium Test");
+       
+       
+
+}
+}
