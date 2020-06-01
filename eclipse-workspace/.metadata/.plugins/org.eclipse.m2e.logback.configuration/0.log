@@ -718,3 +718,15 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2020-05-29 21:39:07,772 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\main\resources
 2020-05-29 21:39:07,774 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-29 21:39:07,774 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\test\resources
+2020-06-01 12:02:16,673 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-01 12:08:28,912 [Worker-14: Launching Executing test in C__Users_apasupuleti_eclipse-workspace_demoselenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\apasupuleti\eclipse-workspace\demoselenium
+2020-06-01 12:08:28,917 [Worker-14: Launching Executing test in C__Users_apasupuleti_eclipse-workspace_demoselenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-06-01 12:08:50,384 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 12:08:50,385 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\main\resources
+2020-06-01 12:08:50,387 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 12:08:50,388 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\test\resources
+2020-06-01 12:08:58,820 [Worker-13: Launching Jenkinssleniumdemo] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demotest:demoselenium:0.0.1-SNAPSHOT @ C:\Users\apasupuleti\eclipse-workspace\demoselenium\pom.xml.
+2020-06-01 12:08:59,934 [Worker-13: Launching Jenkinssleniumdemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 12:08:59,934 [Worker-13: Launching Jenkinssleniumdemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\main\resources
+2020-06-01 12:08:59,937 [Worker-13: Launching Jenkinssleniumdemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-01 12:08:59,937 [Worker-13: Launching Jenkinssleniumdemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\test\resources
