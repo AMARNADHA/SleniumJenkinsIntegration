@@ -736,3 +736,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2020-06-02 18:22:17,639 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-02 18:22:17,640 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apasupuleti\eclipse-workspace\demoselenium\src\test\resources
 2020-06-03 11:55:14,420 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-03 12:40:41,967 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
